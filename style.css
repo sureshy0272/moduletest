@@ -53,21 +53,6 @@
     font-size: large;
     font-weight: bold;
     font-family: 'Inter';
-    animation: changecolor 3s ease 2s infinite normal none;
-}
-@keyframes changecolour{
-    0%{
-        transform: rotate(0deg);
-    }
-    50%{
-        transform: rotate(45deg);
-    }
-    75%{
-        transform: rotate(125deg);
-    }
-    100%{
-        transform: rotate(0deg);
-    }
 }
 .landingpage .image{
     position: static;
